@@ -13,7 +13,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://discord.gg/eAeA8Zuzea">
-  <img align="left" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png"/>" />
+  <img align="left" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png" />
 </a>
 
 <!--<a href="http://dev.to/kunal">
