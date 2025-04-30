@@ -37,5 +37,3 @@
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhijitBhowmick.AbhijitBhowmick)
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v3
