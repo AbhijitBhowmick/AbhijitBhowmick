@@ -33,7 +33,19 @@
 
 ### Honors & Awards 🏅
 
-![Abhijit Bhowmick- github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBhowmick&show_icons=true&hide_border=true&cache_seconds=86400)
+<!--![Abhijit Bhowmick- github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBhowmick&show_icons=true&hide_border=true&cache_seconds=86400)-->
+<!-- GitHub Stats -->
+![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijitBhowmick&show_icons=true&hide_border=true&count_private=true)
+
+<!-- Streak Stats - very reliable -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhijitBhowmick&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitBhowmick&layout=compact&hide_border=true)
+
+<!-- Visitor Badge -->
+![visitors](https://komarev.com/ghpvc/?username=AbhijitBhowmick&color=blue)
+
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhijitBhowmick.AbhijitBhowmick)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhijitBhowmick.AbhijitBhowmick)-->
 
