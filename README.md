@@ -33,7 +33,7 @@
 
 ### Honors & Awards 🏅
 
-![Abhijit Bhowmick- github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBhowmick&show_icons=true&hide_border=true)
+![Abhijit Bhowmick- github stats](https://github-readme-stats.vercel.app/api?username=AbhijitBhowmick&show_icons=true&hide_border=true&cache_seconds=86400)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhijitBhowmick.AbhijitBhowmick)
 
