@@ -24,7 +24,7 @@
 
 ### About Me 🚀
 - 👀 I’m interested in Java,Spring ,Spring Boot ,Hibernate.ElasticSearch,Rest,SOAP,Junit,Microservices
-- 🌱 I’m currently learning FE tech stack like React, MERN  and AI and Machine Learniing and Cloud (AWS/Azure)
+- 🌱 I’m currently working in FE tech stack like React, MERN  and AI and Machine Learniing and Cloud (AWS/Azure)
 - 💞️ I’m interested in  collaborating on Open source projects...
 - 📫 How to reach me abhijitbhowmick2021@gmail.com
 
